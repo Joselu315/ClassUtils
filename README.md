@@ -2,7 +2,7 @@
 <br>
 
 [![GitHub release](https://img.shields.io/github/release/Joselu315/ClassUtil)]()
-[![Mit License](https://img.shields.io/bower/l/ClassUtils)]()
+[![Mit License](https://img.shields.io/bower/l/ClassUtil)]()
 
 ## 👋 Hello!
 
