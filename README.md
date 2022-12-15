@@ -53,4 +53,4 @@ We will pickup up from there :)
 ## Code Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/Joselu315/ClassUtils/graphs/contributors"><img src="https://opencollective.com/jodd/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/Joselu315/ClassUtils/graphs/contributors"><img src="https://opencollective.com/ClassUtils/contributors.svg?width=890&button=false" /></a>
