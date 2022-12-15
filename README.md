@@ -2,11 +2,11 @@
 <br>
 
 [![GitHub release](https://img.shields.io/github/release/Joselu315/ClassUtil)]()
-[![Mit License](https://img.shields.io/badge/license-BSD--2--Clause-blue.svg)]()
+[![Mit License](https://img.shields.io/bower/l/ClassUtils)]()
 
 ## 👋 Hello!
 
-Welcome to the **Jodd** - a unique, alternative world of Java :) You can find here some micro-frameworks and some handy tools. Nothing more, nothing less.
+Welcome to the **ClassUtils** - a unique, alternative world of Java :) You can find here some micro-frameworks and some handy tools. Nothing more, nothing less.
 
 
 
