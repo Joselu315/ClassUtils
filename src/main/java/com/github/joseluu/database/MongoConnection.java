@@ -9,11 +9,11 @@ public class MongoConnection implements IConnection {
     private final MongoClientURI mongoClientURI;
     private final MongoClient mongoClient;
     private final MongoDatabase mongoDatabase;
-    public MongoConnection(MongoClientURI mongoClientURI, String database){
-        this.mongoClientURI = mongoClientURI;
+
+    public MongoConnection(String mongoClientURI, String database){
+        this.mongoClientURI = new MongoClientURI(mongoClientURI);
         this.mongoClient = new MongoClient(mongoClientURI);
         this.mongoDatabase = mongoClient.getDatabase(database);
-
     }
     @Override
     public void start() {
