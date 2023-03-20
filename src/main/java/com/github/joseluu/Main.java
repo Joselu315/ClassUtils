@@ -17,7 +17,7 @@ public class Main {
         guiceService.stop();
         //Here you can an example code about how to work guice in main class
         //Here you can do a simple connect with mongodb using uri
-        new MongoConnection("uri", "testing");
+        new MongoConnection().start();
         //Here you can do a simple connect with mongodb using uri
     }
 }
